@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1775288937 source:d:\nikolenko-sviatoslav-kn25\lab10\prj\testdriver\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	"D:\Nikolenko-Sviatoslav-KN25\lab08\prj\ModulesNikolenko.h"
+
+1775289100 d:\nikolenko-sviatoslav-kn25\lab08\prj\modulesnikolenko.h
+
