@@ -1,0 +1,8 @@
+=== ПРОТОКОЛ АВТОМАТИЗОВАНОГО ТЕСТУВАННЯ ===
+TC_12_01 -> Inputs: a=2, b=3, h=4 -> Expected Volume: 24 -> Actual Volume: 24 -> Result: PASSED
+TC_12_02 -> Inputs: a=1, b=1, h=1 -> Expected Volume: 1 -> Actual Volume: 1 -> Result: PASSED
+TC_12_03 -> Inputs: a=5.5, b=2, h=10 -> Expected Volume: 110 -> Actual Volume: 110 -> Result: PASSED
+TC_12_04 -> Inputs: a=-5, b=3, h=2 -> Expected Volume: 6 -> Actual Volume: 6 -> Result: PASSED
+TC_12_05 -> Inputs: a=4, b=0, h=5 -> Expected Volume: 20 -> Actual Volume: 20 -> Result: PASSED
+TC_12_06 -> Inputs: a=-2.5, b=-3, h=-4 -> Expected Volume: 1 -> Actual Volume: 1 -> Result: PASSED
+=== ТЕСТУВАННЯ ЗАВЕРШЕНО ===

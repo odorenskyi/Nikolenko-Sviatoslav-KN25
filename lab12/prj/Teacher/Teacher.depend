@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1779271340 source:d:\nikolenko-sviatoslav-kn25\lab12\prj\teacher\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	"ModulesNikolenko.h"
+
+1779270872 d:\nikolenko-sviatoslav-kn25\lab12\prj\teacher\modulesnikolenko.h
+	<iostream>
+
